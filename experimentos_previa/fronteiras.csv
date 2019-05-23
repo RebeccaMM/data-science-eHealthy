@@ -1,0 +1,251 @@
+iso2,neighbours
+AF,"['CN', 'IR', 'PK', 'TJ', 'TM', 'UZ']"
+AL,"['GR', 'XK', 'ME', 'MK', 'RS']"
+DE,"['AT', 'BE', 'CZ', 'DK', 'FR', 'LU', 'NL', 'PL', 'CH']"
+AD,"['FR', 'ES']"
+AO,"['CG', 'CD', 'NA', 'ZM']"
+AI,[]
+AG,[]
+AQ,[]
+SA,"['IQ', 'JO', 'KW', 'OM', 'QA', 'AE', 'YE']"
+DZ,"['LY', 'ML', 'MR', 'MA', 'NE', 'TN', 'EH']"
+AR,"['BO', 'BR', 'CL', 'PY', 'UY']"
+AM,"['AZ', 'GE', 'IR', 'TR']"
+AW,[]
+AU,[]
+AT,"['CZ', 'DE', 'HU', 'IT', 'LI', 'SK', 'SI', 'CH']"
+AZ,"['AM', 'GE', 'IR', 'RU', 'TR']"
+BS,[]
+BH,[]
+BD,"['IN', 'MM']"
+BB,[]
+BZ,"['GT', 'MX']"
+BJ,"['BF', 'NE', 'NG', 'TG']"
+BM,[]
+BY,"['LV', 'LT', 'PL', 'RU', 'UA']"
+BO,"['AR', 'BR', 'CL', 'PY', 'PE']"
+BQ,[]
+BA,"['HR', 'ME', 'RS']"
+BW,"['NA', 'ZA', 'ZW']"
+BR,"['AR', 'BO', 'CO', 'GF', 'GY', 'PY', 'PE', 'SR', 'UY', 'VE']"
+BN,['MY']
+BG,"['GR', 'MK', 'RO', 'RS', 'TR']"
+BF,"['BJ', 'GH', 'CI', 'ML', 'NE', 'TG']"
+BI,"['CD', 'RW', 'TZ']"
+BT,"['CN', 'IN']"
+BE,"['FR', 'DE', 'LU', 'NL']"
+CV,[]
+KH,"['LA', 'TH', 'VN']"
+CM,"['CF', 'TD', 'CG', 'GQ', 'GA', 'NG']"
+CA,['US']
+TD,"['CM', 'CF', 'LY', 'NE', 'NG', 'SD']"
+CL,"['AR', 'BO', 'PE']"
+CN,"['AF', 'BT', 'IN', 'KZ', 'KG', 'LA', 'MN', 'MM', 'NP', 'KP', 'PK', 'RU', 'TJ', 'VN']"
+CY,[]
+VA,['IT']
+CO,"['BR', 'EC', 'PA', 'PE', 'VE']"
+KM,[]
+CG,"['AO', 'CM', 'CF', 'CD', 'GA']"
+KP,"['CN', 'RU', 'KR']"
+KR,['KP']
+CR,"['NI', 'PA']"
+CI,"['BF', 'GH', 'GN', 'LR', 'ML']"
+HR,"['BA', 'HU', 'ME', 'RS', 'SI']"
+CU,['US']
+CW,[]
+DK,['DE']
+DM,[]
+EC,"['CO', 'PE']"
+EG,"['IL', 'LY', 'PS', 'SD']"
+SV,"['GT', 'HN']"
+AE,"['OM', 'SA']"
+ER,"['DJ', 'ET', 'SD']"
+SK,"['AT', 'CZ', 'HU', 'PL', 'UA']"
+SI,"['AT', 'HR', 'HU', 'IT']"
+ES,"['AD', 'FR', 'GI', 'MA', 'PT']"
+US,"['CA', 'CU', 'MX']"
+EE,"['LV', 'RU']"
+ET,"['DJ', 'ER', 'KE', 'SO', 'SS', 'SD']"
+PH,[]
+FI,"['NO', 'RU', 'SE']"
+FJ,[]
+FR,"['AD', 'BE', 'DE', 'IT', 'LU', 'MC', 'ES', 'CH']"
+GA,"['CM', 'CG', 'GQ']"
+GM,['SN']
+GE,"['AM', 'AZ', 'RU', 'TR']"
+GH,"['BF', 'CI', 'TG']"
+GI,['ES']
+GD,[]
+GR,"['AL', 'BG', 'MK', 'TR']"
+GL,[]
+GP,[]
+GU,[]
+GT,"['BZ', 'SV', 'HN', 'MX']"
+GF,"['BR', 'SR']"
+GG,[]
+GN,"['GW', 'CI', 'LR', 'ML', 'SN', 'SL']"
+GQ,"['CM', 'GA']"
+GW,"['GN', 'SN']"
+GY,"['BR', 'SR', 'VE']"
+HT,['DO']
+NL,"['BE', 'DE']"
+HN,"['SV', 'GT', 'NI']"
+HK,[]
+HU,"['AT', 'HR', 'RO', 'RS', 'SK', 'SI', 'UA']"
+IN,"['BD', 'BT', 'CN', 'MM', 'NP', 'PK']"
+ID,"['MY', 'PG', 'TL']"
+IQ,"['IR', 'JO', 'KW', 'SA', 'SY', 'TR']"
+IE,['GB']
+IR,"['AF', 'AM', 'AZ', 'IQ', 'PK', 'TR', 'TM']"
+BV,[]
+CX,[]
+NU,[]
+NF,[]
+IM,[]
+IS,[]
+KY,[]
+CC,[]
+CK,[]
+FO,[]
+GS,[]
+HM,[]
+FK,[]
+MP,[]
+MH,[]
+PN,[]
+SB,[]
+TC,[]
+VG,[]
+VI,[]
+AX,[]
+UM,[]
+IL,"['EG', 'JO', 'LB', 'PS', 'SY']"
+IT,"['AT', 'FR', 'SM', 'SI', 'CH', 'VA']"
+JM,[]
+JP,[]
+JE,[]
+JO,"['IQ', 'IL', 'PS', 'SA', 'SY']"
+KZ,"['CN', 'KG', 'RU', 'TM', 'UZ']"
+KE,"['ET', 'SO', 'SS', 'TZ', 'UG']"
+KG,"['CN', 'KZ', 'TJ', 'UZ']"
+KI,[]
+XK,"['AL', 'ME', 'MK', 'RS']"
+KW,"['IQ', 'SA']"
+LA,"['KH', 'CN', 'MM', 'TH', 'VN']"
+LS,['ZA']
+LV,"['BY', 'EE', 'LT', 'RU']"
+LR,"['GN', 'CI', 'SL']"
+LY,"['DZ', 'TD', 'EG', 'NE', 'SD', 'TN']"
+LI,"['AT', 'CH']"
+LT,"['BY', 'LV', 'PL', 'RU']"
+LU,"['BE', 'FR', 'DE']"
+LB,"['IL', 'SY']"
+MO,[]
+MK,"['AL', 'BG', 'GR', 'XK', 'RS']"
+MG,[]
+MY,"['BN', 'ID', 'TH']"
+MW,"['MZ', 'TZ', 'ZM']"
+MV,[]
+ML,"['DZ', 'BF', 'GN', 'CI', 'MR', 'NE', 'SN']"
+MT,[]
+MA,"['DZ', 'ES', 'EH']"
+MQ,[]
+MU,[]
+MR,"['DZ', 'ML', 'SN', 'EH']"
+YT,[]
+FM,[]
+MD,"['RO', 'UA']"
+MN,"['CN', 'RU']"
+ME,"['AL', 'BA', 'HR', 'XK', 'RS']"
+MS,[]
+MZ,"['SZ', 'MW', 'ZA', 'TZ', 'ZM', 'ZW']"
+MM,"['BD', 'CN', 'IN', 'LA', 'TH']"
+MX,"['BZ', 'GT', 'US']"
+MC,['FR']
+NA,"['AO', 'BW', 'ZA', 'ZM']"
+NR,[]
+NP,"['CN', 'IN']"
+NI,"['CR', 'HN']"
+NG,"['BJ', 'CM', 'TD', 'NE']"
+NO,"['FI', 'RU', 'SE']"
+NC,[]
+NZ,[]
+NE,"['DZ', 'BJ', 'BF', 'TD', 'LY', 'ML', 'NG']"
+OM,"['SA', 'AE', 'YE']"
+PK,"['AF', 'CN', 'IN', 'IR']"
+PW,[]
+PA,"['CO', 'CR']"
+PG,['ID']
+PY,"['AR', 'BO', 'BR']"
+PE,"['BO', 'BR', 'CL', 'CO', 'EC']"
+PF,[]
+PL,"['BY', 'CZ', 'DE', 'LT', 'RU', 'SK', 'UA']"
+PT,['ES']
+PR,[]
+QA,['SA']
+GB,['IE']
+CF,"['CM', 'TD', 'CG', 'CD', 'SS', 'SD']"
+CZ,"['AT', 'DE', 'PL', 'SK']"
+CD,"['AO', 'BI', 'CF', 'CG', 'RW', 'SS', 'TZ', 'UG', 'ZM']"
+DO,['HT']
+RE,[]
+RW,"['BI', 'CD', 'TZ', 'UG']"
+RO,"['BG', 'HU', 'MD', 'RS', 'UA']"
+RU,"['AZ', 'BY', 'CN', 'EE', 'FI', 'GE', 'KZ', 'LV', 'LT', 'MN', 'KP', 'NO', 'PL', 'UA']"
+WS,[]
+AS,[]
+BL,[]
+KN,[]
+SM,['IT']
+MF,['SX']
+SX,['MF']
+PM,[]
+VC,[]
+SH,[]
+LC,[]
+ST,[]
+SN,"['GM', 'GN', 'GW', 'ML', 'MR']"
+RS,"['AL', 'BA', 'BG', 'HR', 'HU', 'XK', 'ME', 'MK', 'RO']"
+SC,[]
+SL,"['GN', 'LR']"
+SG,[]
+SY,"['IQ', 'IL', 'JO', 'LB', 'TR']"
+SO,"['DJ', 'ET', 'KE']"
+LK,[]
+SZ,"['MZ', 'ZA']"
+ZA,"['BW', 'SZ', 'LS', 'MZ', 'NA', 'ZW']"
+SD,"['CF', 'TD', 'EG', 'ER', 'ET', 'LY', 'SS']"
+SS,"['CF', 'CD', 'ET', 'KE', 'SD', 'UG']"
+SE,"['FI', 'NO']"
+CH,"['AT', 'FR', 'DE', 'IT', 'LI']"
+SR,"['BR', 'GF', 'GY']"
+SJ,[]
+EH,[]
+TH,"['KH', 'LA', 'MY', 'MM']"
+TW,[]
+TZ,"['BI', 'CD', 'KE', 'MW', 'MZ', 'RW', 'UG', 'ZM']"
+TJ,"['AF', 'CN', 'KG', 'UZ']"
+IO,[]
+TF,[]
+PS,"['EG', 'IL', 'JO']"
+TL,['ID']
+TG,"['BJ', 'BF', 'GH']"
+TK,[]
+TO,[]
+TT,[]
+TM,"['AF', 'IR', 'KZ', 'UZ']"
+TR,"['AM', 'AZ', 'BG', 'GE', 'GR', 'IR', 'IQ', 'SY']"
+TV,[]
+TN,"['DZ', 'LY']"
+UA,"['BY', 'HU', 'MD', 'PL', 'RO', 'RU', 'SK']"
+UG,"['CD', 'KE', 'RW', 'SS', 'TZ']"
+UY,"['AR', 'BR']"
+UZ,"['AF', 'KZ', 'KG', 'TJ', 'TM']"
+VU,[]
+VE,"['BR', 'CO', 'GY']"
+VN,"['KH', 'CN', 'LA']"
+WF,[]
+YE,"['OM', 'SA']"
+DJ,"['ER', 'ET', 'SO']"
+ZM,"['AO', 'CD', 'MW', 'MZ', 'NA', 'TZ', 'ZW']"
+ZW,"['BW', 'MZ', 'ZA', 'ZM']"

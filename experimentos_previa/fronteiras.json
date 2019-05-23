@@ -1,0 +1,1807 @@
+{
+    "AF": {
+        "id": 1149361,
+        "neighbours": [
+            "CN",
+            "IR",
+            "PK",
+            "TJ",
+            "TM",
+            "UZ"
+        ]
+    },
+    "AL": {
+        "id": 783754,
+        "neighbours": [
+            "GR",
+            "XK",
+            "ME",
+            "MK",
+            "RS"
+        ]
+    },
+    "DE": {
+        "id": 2921044,
+        "neighbours": [
+            "AT",
+            "BE",
+            "CZ",
+            "DK",
+            "FR",
+            "LU",
+            "NL",
+            "PL",
+            "CH"
+        ]
+    },
+    "AD": {
+        "id": 3041565,
+        "neighbours": [
+            "FR",
+            "ES"
+        ]
+    },
+    "AO": {
+        "id": 3351879,
+        "neighbours": [
+            "CG",
+            "CD",
+            "NA",
+            "ZM"
+        ]
+    },
+    "AI": {
+        "id": 3573511,
+        "neighbours": []
+    },
+    "AG": {
+        "id": 3576396,
+        "neighbours": []
+    },
+    "AQ": {
+        "id": 6697173,
+        "neighbours": []
+    },
+    "SA": {
+        "id": 102358,
+        "neighbours": [
+            "IQ",
+            "JO",
+            "KW",
+            "OM",
+            "QA",
+            "AE",
+            "YE"
+        ]
+    },
+    "DZ": {
+        "id": 2589581,
+        "neighbours": [
+            "LY",
+            "ML",
+            "MR",
+            "MA",
+            "NE",
+            "TN",
+            "EH"
+        ]
+    },
+    "AR": {
+        "id": 3865483,
+        "neighbours": [
+            "BO",
+            "BR",
+            "CL",
+            "PY",
+            "UY"
+        ]
+    },
+    "AM": {
+        "id": 174982,
+        "neighbours": [
+            "AZ",
+            "GE",
+            "IR",
+            "TR"
+        ]
+    },
+    "AW": {
+        "id": 3577279,
+        "neighbours": []
+    },
+    "AU": {
+        "id": 2077456,
+        "neighbours": []
+    },
+    "AT": {
+        "id": 2782113,
+        "neighbours": [
+            "CZ",
+            "DE",
+            "HU",
+            "IT",
+            "LI",
+            "SK",
+            "SI",
+            "CH"
+        ]
+    },
+    "AZ": {
+        "id": 587116,
+        "neighbours": [
+            "AM",
+            "GE",
+            "IR",
+            "RU",
+            "TR"
+        ]
+    },
+    "BS": {
+        "id": 3572887,
+        "neighbours": []
+    },
+    "BH": {
+        "id": 290291,
+        "neighbours": []
+    },
+    "BD": {
+        "id": 1210997,
+        "neighbours": [
+            "IN",
+            "MM"
+        ]
+    },
+    "BB": {
+        "id": 3374084,
+        "neighbours": []
+    },
+    "BZ": {
+        "id": 3582678,
+        "neighbours": [
+            "GT",
+            "MX"
+        ]
+    },
+    "BJ": {
+        "id": 2395170,
+        "neighbours": [
+            "BF",
+            "NE",
+            "NG",
+            "TG"
+        ]
+    },
+    "BM": {
+        "id": 3573345,
+        "neighbours": []
+    },
+    "BY": {
+        "id": 630336,
+        "neighbours": [
+            "LV",
+            "LT",
+            "PL",
+            "RU",
+            "UA"
+        ]
+    },
+    "BO": {
+        "id": 3923057,
+        "neighbours": [
+            "AR",
+            "BR",
+            "CL",
+            "PY",
+            "PE"
+        ]
+    },
+    "BQ": {
+        "id": 7626844,
+        "neighbours": []
+    },
+    "BA": {
+        "id": 3277605,
+        "neighbours": [
+            "HR",
+            "ME",
+            "RS"
+        ]
+    },
+    "BW": {
+        "id": 933860,
+        "neighbours": [
+            "NA",
+            "ZA",
+            "ZW"
+        ]
+    },
+    "BR": {
+        "id": 3469034,
+        "neighbours": [
+            "AR",
+            "BO",
+            "CO",
+            "GF",
+            "GY",
+            "PY",
+            "PE",
+            "SR",
+            "UY",
+            "VE"
+        ]
+    },
+    "BN": {
+        "id": 1820814,
+        "neighbours": [
+            "MY"
+        ]
+    },
+    "BG": {
+        "id": 732800,
+        "neighbours": [
+            "GR",
+            "MK",
+            "RO",
+            "RS",
+            "TR"
+        ]
+    },
+    "BF": {
+        "id": 2361809,
+        "neighbours": [
+            "BJ",
+            "GH",
+            "CI",
+            "ML",
+            "NE",
+            "TG"
+        ]
+    },
+    "BI": {
+        "id": 433561,
+        "neighbours": [
+            "CD",
+            "RW",
+            "TZ"
+        ]
+    },
+    "BT": {
+        "id": 1252634,
+        "neighbours": [
+            "CN",
+            "IN"
+        ]
+    },
+    "BE": {
+        "id": 2802361,
+        "neighbours": [
+            "FR",
+            "DE",
+            "LU",
+            "NL"
+        ]
+    },
+    "CV": {
+        "id": 3374766,
+        "neighbours": []
+    },
+    "KH": {
+        "id": 1831722,
+        "neighbours": [
+            "LA",
+            "TH",
+            "VN"
+        ]
+    },
+    "CM": {
+        "id": 2233387,
+        "neighbours": [
+            "CF",
+            "TD",
+            "CG",
+            "GQ",
+            "GA",
+            "NG"
+        ]
+    },
+    "CA": {
+        "id": 6251999,
+        "neighbours": [
+            "US"
+        ]
+    },
+    "TD": {
+        "id": 2434508,
+        "neighbours": [
+            "CM",
+            "CF",
+            "LY",
+            "NE",
+            "NG",
+            "SD"
+        ]
+    },
+    "CL": {
+        "id": 3895114,
+        "neighbours": [
+            "AR",
+            "BO",
+            "PE"
+        ]
+    },
+    "CN": {
+        "id": 1814991,
+        "neighbours": [
+            "AF",
+            "BT",
+            "IN",
+            "KZ",
+            "KG",
+            "LA",
+            "MN",
+            "MM",
+            "NP",
+            "KP",
+            "PK",
+            "RU",
+            "TJ",
+            "VN"
+        ]
+    },
+    "CY": {
+        "id": 146669,
+        "neighbours": []
+    },
+    "VA": {
+        "id": 3164670,
+        "neighbours": [
+            "IT"
+        ]
+    },
+    "CO": {
+        "id": 3686110,
+        "neighbours": [
+            "BR",
+            "EC",
+            "PA",
+            "PE",
+            "VE"
+        ]
+    },
+    "KM": {
+        "id": 921929,
+        "neighbours": []
+    },
+    "CG": {
+        "id": 2260494,
+        "neighbours": [
+            "AO",
+            "CM",
+            "CF",
+            "CD",
+            "GA"
+        ]
+    },
+    "KP": {
+        "id": 1873107,
+        "neighbours": [
+            "CN",
+            "RU",
+            "KR"
+        ]
+    },
+    "KR": {
+        "id": 1835841,
+        "neighbours": [
+            "KP"
+        ]
+    },
+    "CR": {
+        "id": 3624060,
+        "neighbours": [
+            "NI",
+            "PA"
+        ]
+    },
+    "CI": {
+        "id": 2287781,
+        "neighbours": [
+            "BF",
+            "GH",
+            "GN",
+            "LR",
+            "ML"
+        ]
+    },
+    "HR": {
+        "id": 3202326,
+        "neighbours": [
+            "BA",
+            "HU",
+            "ME",
+            "RS",
+            "SI"
+        ]
+    },
+    "CU": {
+        "id": 3562981,
+        "neighbours": [
+            "US"
+        ]
+    },
+    "CW": {
+        "id": 7626836,
+        "neighbours": []
+    },
+    "DK": {
+        "id": 2623032,
+        "neighbours": [
+            "DE"
+        ]
+    },
+    "DM": {
+        "id": 3575830,
+        "neighbours": []
+    },
+    "EC": {
+        "id": 3658394,
+        "neighbours": [
+            "CO",
+            "PE"
+        ]
+    },
+    "EG": {
+        "id": 357994,
+        "neighbours": [
+            "IL",
+            "LY",
+            "PS",
+            "SD"
+        ]
+    },
+    "SV": {
+        "id": 3585968,
+        "neighbours": [
+            "GT",
+            "HN"
+        ]
+    },
+    "AE": {
+        "id": 290557,
+        "neighbours": [
+            "OM",
+            "SA"
+        ]
+    },
+    "ER": {
+        "id": 338010,
+        "neighbours": [
+            "DJ",
+            "ET",
+            "SD"
+        ]
+    },
+    "SK": {
+        "id": 3057568,
+        "neighbours": [
+            "AT",
+            "CZ",
+            "HU",
+            "PL",
+            "UA"
+        ]
+    },
+    "SI": {
+        "id": 3190538,
+        "neighbours": [
+            "AT",
+            "HR",
+            "HU",
+            "IT"
+        ]
+    },
+    "ES": {
+        "id": 2510769,
+        "neighbours": [
+            "AD",
+            "FR",
+            "GI",
+            "MA",
+            "PT"
+        ]
+    },
+    "US": {
+        "id": 6252001,
+        "neighbours": [
+            "CA",
+            "CU",
+            "MX"
+        ]
+    },
+    "EE": {
+        "id": 453733,
+        "neighbours": [
+            "LV",
+            "RU"
+        ]
+    },
+    "ET": {
+        "id": 337996,
+        "neighbours": [
+            "DJ",
+            "ER",
+            "KE",
+            "SO",
+            "SS",
+            "SD"
+        ]
+    },
+    "PH": {
+        "id": 1694008,
+        "neighbours": []
+    },
+    "FI": {
+        "id": 660013,
+        "neighbours": [
+            "NO",
+            "RU",
+            "SE"
+        ]
+    },
+    "FJ": {
+        "id": 2205218,
+        "neighbours": []
+    },
+    "FR": {
+        "id": 3017382,
+        "neighbours": [
+            "AD",
+            "BE",
+            "DE",
+            "IT",
+            "LU",
+            "MC",
+            "ES",
+            "CH"
+        ]
+    },
+    "GA": {
+        "id": 2400553,
+        "neighbours": [
+            "CM",
+            "CG",
+            "GQ"
+        ]
+    },
+    "GM": {
+        "id": 2413451,
+        "neighbours": [
+            "SN"
+        ]
+    },
+    "GE": {
+        "id": 614540,
+        "neighbours": [
+            "AM",
+            "AZ",
+            "RU",
+            "TR"
+        ]
+    },
+    "GH": {
+        "id": 2300660,
+        "neighbours": [
+            "BF",
+            "CI",
+            "TG"
+        ]
+    },
+    "GI": {
+        "id": 2411586,
+        "neighbours": [
+            "ES"
+        ]
+    },
+    "GD": {
+        "id": 3580239,
+        "neighbours": []
+    },
+    "GR": {
+        "id": 390903,
+        "neighbours": [
+            "AL",
+            "BG",
+            "MK",
+            "TR"
+        ]
+    },
+    "GL": {
+        "id": 3425505,
+        "neighbours": []
+    },
+    "GP": {
+        "id": 3579143,
+        "neighbours": []
+    },
+    "GU": {
+        "id": 4043988,
+        "neighbours": []
+    },
+    "GT": {
+        "id": 3595528,
+        "neighbours": [
+            "BZ",
+            "SV",
+            "HN",
+            "MX"
+        ]
+    },
+    "GF": {
+        "id": 3381670,
+        "neighbours": [
+            "BR",
+            "SR"
+        ]
+    },
+    "GG": {
+        "id": 3042362,
+        "neighbours": []
+    },
+    "GN": {
+        "id": 2420477,
+        "neighbours": [
+            "GW",
+            "CI",
+            "LR",
+            "ML",
+            "SN",
+            "SL"
+        ]
+    },
+    "GQ": {
+        "id": 2309096,
+        "neighbours": [
+            "CM",
+            "GA"
+        ]
+    },
+    "GW": {
+        "id": 2372248,
+        "neighbours": [
+            "GN",
+            "SN"
+        ]
+    },
+    "GY": {
+        "id": 3378535,
+        "neighbours": [
+            "BR",
+            "SR",
+            "VE"
+        ]
+    },
+    "HT": {
+        "id": 3723988,
+        "neighbours": [
+            "DO"
+        ]
+    },
+    "NL": {
+        "id": 2750405,
+        "neighbours": [
+            "BE",
+            "DE"
+        ]
+    },
+    "HN": {
+        "id": 3608932,
+        "neighbours": [
+            "SV",
+            "GT",
+            "NI"
+        ]
+    },
+    "HK": {
+        "id": 1819730,
+        "neighbours": []
+    },
+    "HU": {
+        "id": 719819,
+        "neighbours": [
+            "AT",
+            "HR",
+            "RO",
+            "RS",
+            "SK",
+            "SI",
+            "UA"
+        ]
+    },
+    "IN": {
+        "id": 1269750,
+        "neighbours": [
+            "BD",
+            "BT",
+            "CN",
+            "MM",
+            "NP",
+            "PK"
+        ]
+    },
+    "ID": {
+        "id": 1643084,
+        "neighbours": [
+            "MY",
+            "PG",
+            "TL"
+        ]
+    },
+    "IQ": {
+        "id": 99237,
+        "neighbours": [
+            "IR",
+            "JO",
+            "KW",
+            "SA",
+            "SY",
+            "TR"
+        ]
+    },
+    "IE": {
+        "id": 2963597,
+        "neighbours": [
+            "GB"
+        ]
+    },
+    "IR": {
+        "id": 130758,
+        "neighbours": [
+            "AF",
+            "AM",
+            "AZ",
+            "IQ",
+            "PK",
+            "TR",
+            "TM"
+        ]
+    },
+    "BV": {
+        "id": 3371123,
+        "neighbours": []
+    },
+    "CX": {
+        "id": 2078138,
+        "neighbours": []
+    },
+    "NU": {
+        "id": 4036232,
+        "neighbours": []
+    },
+    "NF": {
+        "id": 2155115,
+        "neighbours": []
+    },
+    "IM": {
+        "id": 3042225,
+        "neighbours": []
+    },
+    "IS": {
+        "id": 2629691,
+        "neighbours": []
+    },
+    "KY": {
+        "id": 3580718,
+        "neighbours": []
+    },
+    "CC": {
+        "id": 1547376,
+        "neighbours": []
+    },
+    "CK": {
+        "id": 1899402,
+        "neighbours": []
+    },
+    "FO": {
+        "id": 2622320,
+        "neighbours": []
+    },
+    "GS": {
+        "id": 3474415,
+        "neighbours": []
+    },
+    "HM": {
+        "id": 1547314,
+        "neighbours": []
+    },
+    "FK": {
+        "id": 3474414,
+        "neighbours": []
+    },
+    "MP": {
+        "id": 4041468,
+        "neighbours": []
+    },
+    "MH": {
+        "id": 2080185,
+        "neighbours": []
+    },
+    "PN": {
+        "id": 4030699,
+        "neighbours": []
+    },
+    "SB": {
+        "id": 2103350,
+        "neighbours": []
+    },
+    "TC": {
+        "id": 3576916,
+        "neighbours": []
+    },
+    "VG": {
+        "id": 3577718,
+        "neighbours": []
+    },
+    "VI": {
+        "id": 4796775,
+        "neighbours": []
+    },
+    "AX": {
+        "id": 661882,
+        "neighbours": []
+    },
+    "UM": {
+        "id": 5854968,
+        "neighbours": []
+    },
+    "IL": {
+        "id": 294640,
+        "neighbours": [
+            "EG",
+            "JO",
+            "LB",
+            "PS",
+            "SY"
+        ]
+    },
+    "IT": {
+        "id": 3175395,
+        "neighbours": [
+            "AT",
+            "FR",
+            "SM",
+            "SI",
+            "CH",
+            "VA"
+        ]
+    },
+    "JM": {
+        "id": 3489940,
+        "neighbours": []
+    },
+    "JP": {
+        "id": 1861060,
+        "neighbours": []
+    },
+    "JE": {
+        "id": 3042142,
+        "neighbours": []
+    },
+    "JO": {
+        "id": 248816,
+        "neighbours": [
+            "IQ",
+            "IL",
+            "PS",
+            "SA",
+            "SY"
+        ]
+    },
+    "KZ": {
+        "id": 1522867,
+        "neighbours": [
+            "CN",
+            "KG",
+            "RU",
+            "TM",
+            "UZ"
+        ]
+    },
+    "KE": {
+        "id": 192950,
+        "neighbours": [
+            "ET",
+            "SO",
+            "SS",
+            "TZ",
+            "UG"
+        ]
+    },
+    "KG": {
+        "id": 1527747,
+        "neighbours": [
+            "CN",
+            "KZ",
+            "TJ",
+            "UZ"
+        ]
+    },
+    "KI": {
+        "id": 4030945,
+        "neighbours": []
+    },
+    "XK": {
+        "id": 831053,
+        "neighbours": [
+            "AL",
+            "ME",
+            "MK",
+            "RS"
+        ]
+    },
+    "KW": {
+        "id": 285570,
+        "neighbours": [
+            "IQ",
+            "SA"
+        ]
+    },
+    "LA": {
+        "id": 1655842,
+        "neighbours": [
+            "KH",
+            "CN",
+            "MM",
+            "TH",
+            "VN"
+        ]
+    },
+    "LS": {
+        "id": 932692,
+        "neighbours": [
+            "ZA"
+        ]
+    },
+    "LV": {
+        "id": 458258,
+        "neighbours": [
+            "BY",
+            "EE",
+            "LT",
+            "RU"
+        ]
+    },
+    "LR": {
+        "id": 2275384,
+        "neighbours": [
+            "GN",
+            "CI",
+            "SL"
+        ]
+    },
+    "LY": {
+        "id": 2215636,
+        "neighbours": [
+            "DZ",
+            "TD",
+            "EG",
+            "NE",
+            "SD",
+            "TN"
+        ]
+    },
+    "LI": {
+        "id": 3042058,
+        "neighbours": [
+            "AT",
+            "CH"
+        ]
+    },
+    "LT": {
+        "id": 597427,
+        "neighbours": [
+            "BY",
+            "LV",
+            "PL",
+            "RU"
+        ]
+    },
+    "LU": {
+        "id": 2960313,
+        "neighbours": [
+            "BE",
+            "FR",
+            "DE"
+        ]
+    },
+    "LB": {
+        "id": 272103,
+        "neighbours": [
+            "IL",
+            "SY"
+        ]
+    },
+    "MO": {
+        "id": 1821275,
+        "neighbours": []
+    },
+    "MK": {
+        "id": 718075,
+        "neighbours": [
+            "AL",
+            "BG",
+            "GR",
+            "XK",
+            "RS"
+        ]
+    },
+    "MG": {
+        "id": 1062947,
+        "neighbours": []
+    },
+    "MY": {
+        "id": 1733045,
+        "neighbours": [
+            "BN",
+            "ID",
+            "TH"
+        ]
+    },
+    "MW": {
+        "id": 927384,
+        "neighbours": [
+            "MZ",
+            "TZ",
+            "ZM"
+        ]
+    },
+    "MV": {
+        "id": 1282028,
+        "neighbours": []
+    },
+    "ML": {
+        "id": 2453866,
+        "neighbours": [
+            "DZ",
+            "BF",
+            "GN",
+            "CI",
+            "MR",
+            "NE",
+            "SN"
+        ]
+    },
+    "MT": {
+        "id": 2562770,
+        "neighbours": []
+    },
+    "MA": {
+        "id": 2542007,
+        "neighbours": [
+            "DZ",
+            "ES",
+            "EH"
+        ]
+    },
+    "MQ": {
+        "id": 3570311,
+        "neighbours": []
+    },
+    "MU": {
+        "id": 934292,
+        "neighbours": []
+    },
+    "MR": {
+        "id": 2378080,
+        "neighbours": [
+            "DZ",
+            "ML",
+            "SN",
+            "EH"
+        ]
+    },
+    "YT": {
+        "id": 1024031,
+        "neighbours": []
+    },
+    "FM": {
+        "id": 2081918,
+        "neighbours": []
+    },
+    "MD": {
+        "id": 617790,
+        "neighbours": [
+            "RO",
+            "UA"
+        ]
+    },
+    "MN": {
+        "id": 2029969,
+        "neighbours": [
+            "CN",
+            "RU"
+        ]
+    },
+    "ME": {
+        "id": 3194884,
+        "neighbours": [
+            "AL",
+            "BA",
+            "HR",
+            "XK",
+            "RS"
+        ]
+    },
+    "MS": {
+        "id": 3578097,
+        "neighbours": []
+    },
+    "MZ": {
+        "id": 1036973,
+        "neighbours": [
+            "SZ",
+            "MW",
+            "ZA",
+            "TZ",
+            "ZM",
+            "ZW"
+        ]
+    },
+    "MM": {
+        "id": 1327865,
+        "neighbours": [
+            "BD",
+            "CN",
+            "IN",
+            "LA",
+            "TH"
+        ]
+    },
+    "MX": {
+        "id": 3996063,
+        "neighbours": [
+            "BZ",
+            "GT",
+            "US"
+        ]
+    },
+    "MC": {
+        "id": 2993457,
+        "neighbours": [
+            "FR"
+        ]
+    },
+    "NA": {
+        "id": 3355338,
+        "neighbours": [
+            "AO",
+            "BW",
+            "ZA",
+            "ZM"
+        ]
+    },
+    "NR": {
+        "id": 2110425,
+        "neighbours": []
+    },
+    "NP": {
+        "id": 1282988,
+        "neighbours": [
+            "CN",
+            "IN"
+        ]
+    },
+    "NI": {
+        "id": 3617476,
+        "neighbours": [
+            "CR",
+            "HN"
+        ]
+    },
+    "NG": {
+        "id": 2328926,
+        "neighbours": [
+            "BJ",
+            "CM",
+            "TD",
+            "NE"
+        ]
+    },
+    "NO": {
+        "id": 3144096,
+        "neighbours": [
+            "FI",
+            "RU",
+            "SE"
+        ]
+    },
+    "NC": {
+        "id": 2139685,
+        "neighbours": []
+    },
+    "NZ": {
+        "id": 2186224,
+        "neighbours": []
+    },
+    "NE": {
+        "id": 2440476,
+        "neighbours": [
+            "DZ",
+            "BJ",
+            "BF",
+            "TD",
+            "LY",
+            "ML",
+            "NG"
+        ]
+    },
+    "OM": {
+        "id": 286963,
+        "neighbours": [
+            "SA",
+            "AE",
+            "YE"
+        ]
+    },
+    "PK": {
+        "id": 1168579,
+        "neighbours": [
+            "AF",
+            "CN",
+            "IN",
+            "IR"
+        ]
+    },
+    "PW": {
+        "id": 1559582,
+        "neighbours": []
+    },
+    "PA": {
+        "id": 3703430,
+        "neighbours": [
+            "CO",
+            "CR"
+        ]
+    },
+    "PG": {
+        "id": 2088628,
+        "neighbours": [
+            "ID"
+        ]
+    },
+    "PY": {
+        "id": 3437598,
+        "neighbours": [
+            "AR",
+            "BO",
+            "BR"
+        ]
+    },
+    "PE": {
+        "id": 3932488,
+        "neighbours": [
+            "BO",
+            "BR",
+            "CL",
+            "CO",
+            "EC"
+        ]
+    },
+    "PF": {
+        "id": 4030656,
+        "neighbours": []
+    },
+    "PL": {
+        "id": 798544,
+        "neighbours": [
+            "BY",
+            "CZ",
+            "DE",
+            "LT",
+            "RU",
+            "SK",
+            "UA"
+        ]
+    },
+    "PT": {
+        "id": 2264397,
+        "neighbours": [
+            "ES"
+        ]
+    },
+    "PR": {
+        "id": 4566966,
+        "neighbours": []
+    },
+    "QA": {
+        "id": 289688,
+        "neighbours": [
+            "SA"
+        ]
+    },
+    "GB": {
+        "id": 2635167,
+        "neighbours": [
+            "IE"
+        ]
+    },
+    "CF": {
+        "id": 239880,
+        "neighbours": [
+            "CM",
+            "TD",
+            "CG",
+            "CD",
+            "SS",
+            "SD"
+        ]
+    },
+    "CZ": {
+        "id": 3077311,
+        "neighbours": [
+            "AT",
+            "DE",
+            "PL",
+            "SK"
+        ]
+    },
+    "CD": {
+        "id": 203312,
+        "neighbours": [
+            "AO",
+            "BI",
+            "CF",
+            "CG",
+            "RW",
+            "SS",
+            "TZ",
+            "UG",
+            "ZM"
+        ]
+    },
+    "DO": {
+        "id": 3508796,
+        "neighbours": [
+            "HT"
+        ]
+    },
+    "RE": {
+        "id": 935317,
+        "neighbours": []
+    },
+    "RW": {
+        "id": 49518,
+        "neighbours": [
+            "BI",
+            "CD",
+            "TZ",
+            "UG"
+        ]
+    },
+    "RO": {
+        "id": 798549,
+        "neighbours": [
+            "BG",
+            "HU",
+            "MD",
+            "RS",
+            "UA"
+        ]
+    },
+    "RU": {
+        "id": 2017370,
+        "neighbours": [
+            "AZ",
+            "BY",
+            "CN",
+            "EE",
+            "FI",
+            "GE",
+            "KZ",
+            "LV",
+            "LT",
+            "MN",
+            "KP",
+            "NO",
+            "PL",
+            "UA"
+        ]
+    },
+    "WS": {
+        "id": 4034894,
+        "neighbours": []
+    },
+    "AS": {
+        "id": 5880801,
+        "neighbours": []
+    },
+    "BL": {
+        "id": 3578476,
+        "neighbours": []
+    },
+    "KN": {
+        "id": 3575174,
+        "neighbours": []
+    },
+    "SM": {
+        "id": 3168068,
+        "neighbours": [
+            "IT"
+        ]
+    },
+    "MF": {
+        "id": 3578421,
+        "neighbours": [
+            "SX"
+        ]
+    },
+    "SX": {
+        "id": 7609695,
+        "neighbours": [
+            "MF"
+        ]
+    },
+    "PM": {
+        "id": 3424932,
+        "neighbours": []
+    },
+    "VC": {
+        "id": 3577815,
+        "neighbours": []
+    },
+    "SH": {
+        "id": 3370751,
+        "neighbours": []
+    },
+    "LC": {
+        "id": 3576468,
+        "neighbours": []
+    },
+    "ST": {
+        "id": 2410758,
+        "neighbours": []
+    },
+    "SN": {
+        "id": 2245662,
+        "neighbours": [
+            "GM",
+            "GN",
+            "GW",
+            "ML",
+            "MR"
+        ]
+    },
+    "RS": {
+        "id": 6290252,
+        "neighbours": [
+            "AL",
+            "BA",
+            "BG",
+            "HR",
+            "HU",
+            "XK",
+            "ME",
+            "MK",
+            "RO"
+        ]
+    },
+    "SC": {
+        "id": 241170,
+        "neighbours": []
+    },
+    "SL": {
+        "id": 2403846,
+        "neighbours": [
+            "GN",
+            "LR"
+        ]
+    },
+    "SG": {
+        "id": 1880251,
+        "neighbours": []
+    },
+    "SY": {
+        "id": 163843,
+        "neighbours": [
+            "IQ",
+            "IL",
+            "JO",
+            "LB",
+            "TR"
+        ]
+    },
+    "SO": {
+        "id": 51537,
+        "neighbours": [
+            "DJ",
+            "ET",
+            "KE"
+        ]
+    },
+    "LK": {
+        "id": 1227603,
+        "neighbours": []
+    },
+    "SZ": {
+        "id": 934841,
+        "neighbours": [
+            "MZ",
+            "ZA"
+        ]
+    },
+    "ZA": {
+        "id": 953987,
+        "neighbours": [
+            "BW",
+            "SZ",
+            "LS",
+            "MZ",
+            "NA",
+            "ZW"
+        ]
+    },
+    "SD": {
+        "id": 366755,
+        "neighbours": [
+            "CF",
+            "TD",
+            "EG",
+            "ER",
+            "ET",
+            "LY",
+            "SS"
+        ]
+    },
+    "SS": {
+        "id": 7909807,
+        "neighbours": [
+            "CF",
+            "CD",
+            "ET",
+            "KE",
+            "SD",
+            "UG"
+        ]
+    },
+    "SE": {
+        "id": 2661886,
+        "neighbours": [
+            "FI",
+            "NO"
+        ]
+    },
+    "CH": {
+        "id": 2658434,
+        "neighbours": [
+            "AT",
+            "FR",
+            "DE",
+            "IT",
+            "LI"
+        ]
+    },
+    "SR": {
+        "id": 3382998,
+        "neighbours": [
+            "BR",
+            "GF",
+            "GY"
+        ]
+    },
+    "SJ": {
+        "id": 607072,
+        "neighbours": []
+    },
+    "EH": {
+        "id": 2461445,
+        "neighbours": []
+    },
+    "TH": {
+        "id": 1605651,
+        "neighbours": [
+            "KH",
+            "LA",
+            "MY",
+            "MM"
+        ]
+    },
+    "TW": {
+        "id": 1668284,
+        "neighbours": []
+    },
+    "TZ": {
+        "id": 149590,
+        "neighbours": [
+            "BI",
+            "CD",
+            "KE",
+            "MW",
+            "MZ",
+            "RW",
+            "UG",
+            "ZM"
+        ]
+    },
+    "TJ": {
+        "id": 1220409,
+        "neighbours": [
+            "AF",
+            "CN",
+            "KG",
+            "UZ"
+        ]
+    },
+    "IO": {
+        "id": 1282588,
+        "neighbours": []
+    },
+    "TF": {
+        "id": 1546748,
+        "neighbours": []
+    },
+    "PS": {
+        "id": 6254930,
+        "neighbours": [
+            "EG",
+            "IL",
+            "JO"
+        ]
+    },
+    "TL": {
+        "id": 1966436,
+        "neighbours": [
+            "ID"
+        ]
+    },
+    "TG": {
+        "id": 2363686,
+        "neighbours": [
+            "BJ",
+            "BF",
+            "GH"
+        ]
+    },
+    "TK": {
+        "id": 4031074,
+        "neighbours": []
+    },
+    "TO": {
+        "id": 4032283,
+        "neighbours": []
+    },
+    "TT": {
+        "id": 3573591,
+        "neighbours": []
+    },
+    "TM": {
+        "id": 1218197,
+        "neighbours": [
+            "AF",
+            "IR",
+            "KZ",
+            "UZ"
+        ]
+    },
+    "TR": {
+        "id": 298795,
+        "neighbours": [
+            "AM",
+            "AZ",
+            "BG",
+            "GE",
+            "GR",
+            "IR",
+            "IQ",
+            "SY"
+        ]
+    },
+    "TV": {
+        "id": 2110297,
+        "neighbours": []
+    },
+    "TN": {
+        "id": 2464461,
+        "neighbours": [
+            "DZ",
+            "LY"
+        ]
+    },
+    "UA": {
+        "id": 690791,
+        "neighbours": [
+            "BY",
+            "HU",
+            "MD",
+            "PL",
+            "RO",
+            "RU",
+            "SK"
+        ]
+    },
+    "UG": {
+        "id": 226074,
+        "neighbours": [
+            "CD",
+            "KE",
+            "RW",
+            "SS",
+            "TZ"
+        ]
+    },
+    "UY": {
+        "id": 3439705,
+        "neighbours": [
+            "AR",
+            "BR"
+        ]
+    },
+    "UZ": {
+        "id": 1512440,
+        "neighbours": [
+            "AF",
+            "KZ",
+            "KG",
+            "TJ",
+            "TM"
+        ]
+    },
+    "VU": {
+        "id": 2134431,
+        "neighbours": []
+    },
+    "VE": {
+        "id": 3625428,
+        "neighbours": [
+            "BR",
+            "CO",
+            "GY"
+        ]
+    },
+    "VN": {
+        "id": 1562822,
+        "neighbours": [
+            "KH",
+            "CN",
+            "LA"
+        ]
+    },
+    "WF": {
+        "id": 4034749,
+        "neighbours": []
+    },
+    "YE": {
+        "id": 69543,
+        "neighbours": [
+            "OM",
+            "SA"
+        ]
+    },
+    "DJ": {
+        "id": 223816,
+        "neighbours": [
+            "ER",
+            "ET",
+            "SO"
+        ]
+    },
+    "ZM": {
+        "id": 895949,
+        "neighbours": [
+            "AO",
+            "CD",
+            "MW",
+            "MZ",
+            "NA",
+            "TZ",
+            "ZW"
+        ]
+    },
+    "ZW": {
+        "id": 878675,
+        "neighbours": [
+            "BW",
+            "MZ",
+            "ZA",
+            "ZM"
+        ]
+    }
+}
